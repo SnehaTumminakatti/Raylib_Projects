@@ -3,7 +3,7 @@
 #include "chess.h"
 int main(){
     
-    InitWindow(screenWidth,screenHeight,"my window");
+    InitWindow(screenWidth,screenHeight,"Horse");
     SetTargetFPS(60);
     int posX,posY;
     Image horse = LoadImage("horse-head.png");
